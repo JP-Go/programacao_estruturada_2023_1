@@ -1,3 +1,15 @@
+print('Padrão de hashes:')
+print("#" * 30)
+print("#" * 30)
+print("#" * 30)
+print()
+
+print('Onda:')
+print('/\ ' * 10)
+print(' \/' * 10)
+print()
+
+print("#" * 30)
 print("Parabéns" + "!" * 8)
 print("Aqui vai um dinossauro!")
 
